@@ -2,7 +2,7 @@
     "name": "hccopyhaijia/cjc",
     "description": "cDescription",
     "type": "yii2-extension",
-    "keywords": ["yii2","extension",'hccopyhaijia'],
+    "keywords": ["yii2","extension"],
     "license": "BSD-3-Clause",
     "authors": [
         {
